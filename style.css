@@ -63,14 +63,14 @@ section {
 }
 
 .project-card {
-  background-color: #black;
+  background-color: #000;
   color: black;
   margin-top: 110px;
   width: 39%;
 }
 
 .project-card-featured {
-  background-color: #black;
+  background-color: #000;
   color: black;
   margin-top: 10px;
 }
@@ -89,4 +89,7 @@ img {
 
 #project-3 {
   height: 100px;
+}
+
+@media screen and (max-width: 900px) {
 }

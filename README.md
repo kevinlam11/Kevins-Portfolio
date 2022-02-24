@@ -6,8 +6,8 @@
 
 ## Description
 
-This is my portfolio. I have multiple projects in this page and i have my contact info at the bottom.
+This is my portfolio. I've provided a headshot and a brief description of myself. I have multiple projects in this page and i have my contact info at the bottom.
 
 ## Screenshot
 
-(./assets/project 1.png)
+![my portrait page ](./assets/project1.png)
