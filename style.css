@@ -64,14 +64,14 @@ section {
 
 .project-card {
   background-color: #000;
-  color: black;
+  /* color: black; */
   margin-top: 110px;
   width: 39%;
 }
 
 .project-card-featured {
   background-color: #000;
-  color: black;
+  /* color: black; */
   margin-top: 10px;
 }
 
@@ -79,12 +79,15 @@ img {
   width: 100%;
 }
 /* Footer edit */
-#ending {
+#contact {
   display: flex;
-  height: 100px;
+  height: 50px;
   align-items: center;
-  justify-content: space-between;
-  padding: 0px 30px;
+  justify-content: space-evenly;
+  padding: 30px 30px;
+  background-color: #212121;
+  color: white;
+  /* padding-top: 30px; */
 }
 
 #project-3 {
@@ -92,4 +95,12 @@ img {
 }
 
 @media screen and (max-width: 900px) {
+  header {
+    font-size: 30px;
+  }
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
 }
