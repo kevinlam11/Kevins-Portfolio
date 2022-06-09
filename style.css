@@ -41,19 +41,26 @@ nav ul a {
 section {
   text-align: center;
   color: #909090;
-  width: 80%;
+  width: 100%;
   margin: auto;
 }
+
+#projects {
+  font-size: 50px;
+  color: white;
+}
+
 /* Picture edit */
-.featured-project-image {
+/* .featured-project-image {
   width: 100%;
   height: 400px;
-}
-#project-1 {
+} */
+
+/* #project-1 {
   width: 80%;
   height: 350px;
-}
-/* Project edit  */
+} */
+
 #project-container {
   display: flex;
   flex-wrap: wrap;
@@ -64,34 +71,34 @@ section {
 
 .project-card {
   background-color: #000;
-  /* color: black; */
-  margin-top: 110px;
-  width: 39%;
+  margin-top: 50px;
+  width: 75%;
 }
 
-.project-card-featured {
+/* .project-card-featured {
   background-color: #000;
-  /* color: black; */
   margin-top: 10px;
-}
+} */
+
+/* #project-4 {
+  height: 100px;
+} */
 
 img {
   width: 100%;
 }
+
 /* Footer edit */
 #contact-me {
   display: flex;
-  height: 50px;
+  height: 20px;
   align-items: center;
   justify-content: space-evenly;
   padding: 30px 30px;
   background-color: #212121;
   color: white;
   /* padding-top: 30px; */
-}
-
-#project-3 {
-  height: 100px;
+  margin-top: 50px;
 }
 
 @media screen and (max-width: 900px) {
