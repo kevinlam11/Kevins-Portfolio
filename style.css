@@ -45,9 +45,15 @@ section {
   margin: auto;
 }
 
+.bio {
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
 #projects {
   font-size: 50px;
   color: white;
+  margin-top: 200px;
 }
 
 /* Picture edit */
